@@ -32,17 +32,16 @@ const Abouts = () => {
           Ramahadi Gymnastiar, pendiri kami yang bersemangat, memadukan kecintaannya pada kuliner Indonesia dengan inovasi untuk menciptakan klepon yang istimewa. Selain menjadi pendiri, Ramahadi juga berperan penting dalam proses produksi kami.
           </p>
           <p><b Tim Kami></b></p>
-          <p>Kami memiliki tim yang berdedikasi, terdiri dari:
+          <p>Kami memiliki tim yang berdedikasi, terdiri dari:<br/>
 
-            <ul>
-                <li><b>*Viki Dwi Destyawan</b>: Mengelola keuangan dan memastikan kelancaran operasional.
-</li>
-                <li>
-<b>*Yoga Hadi Syahputra</b>: Bertanggung jawab atas penjualan dan pengembangan pasar.
-</li>
-                <li>
-<b>*Raihan Nurliansyah</b>: Mengembangkan strategi pemasaran untuk menjangkau lebih banyak pecinta klepon.</li>
-            </ul>
+            *Viki Dwi Destyawan: Mengelola keuangan dan memastikan kelancaran operasional.<br/>
+
+
+*Yoga Hadi Syahputra: Bertanggung jawab atas penjualan dan pengembangan pasar.<br/>
+
+  
+*Raihan Nurliansyah: Mengembangkan strategi pemasaran untuk menjangkau lebih banyak pecinta klepon.<br/>
+        
 </p>
 
 <p>

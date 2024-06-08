@@ -7,6 +7,9 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 export const metadata = {
   title: "Klepon Aneka",
   description: "Makanan Ringan Khas Indonesia",
+  icons:{
+    icon: '/logo.ico'
+  }
 };
 
 export default function RootLayout({ children }) {

@@ -1,4 +1,6 @@
+"use client"
 import {Kalam} from "next/font/google"
+import Image from "next/image";
 const kalam = Kalam({subsets: ["latin-ext"],weight:"700"} );
 
 
@@ -11,15 +13,19 @@ const Menus = () => {
 	<div>
     <a href="#" className="group block overflow-hidden cursor-default">
   <div className="relative h-[350px] sm:h-[450px]">
-    <img
+    <Image
       src="/menus/aneka_rasa.png"
       alt=""
+      width="300"
+      height="500"
       className="absolute inset-0 h-full w-full object-cover opacity-100 group-hover:opacity-0"
     />
 
-    <img
+    <Image
       src="/menus/aneka_rasa_hover.png"
       alt=""
+      width="300"
+      height="500"
       className="absolute inset-0 h-full w-full object-cover opacity-0 group-hover:opacity-100"
       />
   </div>
@@ -41,15 +47,19 @@ const Menus = () => {
     <div>
     <a href="#" className="group block overflow-hidden cursor-default">
   <div className="relative h-[350px] sm:h-[450px]">
-    <img
+    <Image
       src="/menus/fullcoklat.png"
       alt=""
+      width="300"
+      height="500"
       className="absolute inset-0 h-full w-full object-cover opacity-100 group-hover:opacity-0"
       />
 
-    <img
+    <Image
       src="/menus/fullcoklat_hover.png"
       alt=""
+      width="300"
+      height="500"
       className="absolute inset-0 h-full w-full object-cover opacity-0 group-hover:opacity-100"
       />
   </div>
@@ -71,15 +81,19 @@ const Menus = () => {
     <div>
     <a href="#" className="group block overflow-hidden cursor-default">
   <div className="relative h-[350px] sm:h-[450px]">
-    <img
+    <Image
       src="/menus/fullkeju.png"
       alt=""
+      width="300"
+      height="500"
       className="absolute inset-0 h-full w-full object-cover opacity-100 group-hover:opacity-0"
       />
 
-    <img
+    <Image
       src="/menus/fullkeju_hover.png"
       alt=""
+      width="300"
+      height="500"
       className="absolute inset-0 h-full w-full object-cover opacity-0 group-hover:opacity-100"
       />
   </div>
