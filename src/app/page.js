@@ -7,9 +7,9 @@ export default function Home() {
   return (
     <main className="flex flex-col gap-16 w-full min-h-screen">
       <Jumbotron />
-      <Abouts/>
-      <Menus/>
-      <Footers/>
+      <Abouts />
+      <Menus />
+      <Footers />
     </main>
   );
 }
