@@ -1,4 +1,4 @@
-/* eslint-disable react/jsx-no-comment-textnodes */
+/* -disable react/jsx-no-comment-textnodes */
 /* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
 import { AiFillInstagram } from "react-icons/ai";
@@ -27,8 +27,7 @@ const Jumbotron = () => {
           className={`text-3xl sm:text-7xl font-bold text-green-700 ${kalam.className}`}
         >
           Traditional <a className="text-blue-600">Food</a>{" "}
-          <a className="text-red-700">with</a> <br /> //
-          eslint-disable-next-line react/no-unescaped-entities
+          <a className="text-red-700">with</a> <br />
           <a className="text-yellow-500">Modern Taste's</a>
         </h1>
         <p className="text-[12px] font-light sm:font-normal sm:text-lg text-white">
